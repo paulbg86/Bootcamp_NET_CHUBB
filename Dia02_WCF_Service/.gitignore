@@ -1,0 +1,22 @@
+# OS
+Thumbs.db
+.DS_Store
+
+# IDE
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.userprefs
+
+# Build outputs
+bin/
+obj/
+
+# Logs
+*.log
+
+# Others
+*.ncrunch*
+*.local.json
