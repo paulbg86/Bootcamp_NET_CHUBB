@@ -1,0 +1,4 @@
+# Ejemplos Codex CLI
+codex prompt "Crear proyecto .NET 8 Web API con endpoint /health" --output ./Dia03_WebApi_EFCore/WebApiDemo
+codex prompt -f ./Prompts_Codex_CLI/prompts_global.md --section "Día 4 – Docker + Azure DevOps" --output ./Dia04_Docker_Azure
+codex prompt "Mejorar AuthController con validación y logs" --output ./Dia05_Seguridad_JWT/JwtApi/Controllers

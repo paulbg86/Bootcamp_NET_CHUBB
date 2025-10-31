@@ -1,0 +1,6 @@
+# Prompt Codex - Día 5: Seguridad JWT
+Agrega autenticación JWT a una API .NET 8 con:
+- endpoint POST /api/auth/login que devuelva token
+- endpoint GET /api/auth/secure protegido con [Authorize]
+- configuración de Secret en appsettings o user-secrets
+Incluye Swagger con soporte para Authorization: Bearer.

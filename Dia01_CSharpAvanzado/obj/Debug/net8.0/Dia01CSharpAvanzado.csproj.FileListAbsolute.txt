@@ -1,0 +1,14 @@
+E:\Desarrollo Personal\WCF CHUBB\Bootcamp_NET_CHUBB\Dia01_CSharpAvanzado\obj\Debug\net8.0\Dia01CSharpAvanzado.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desarrollo Personal\WCF CHUBB\Bootcamp_NET_CHUBB\Dia01_CSharpAvanzado\obj\Debug\net8.0\Dia01CSharpAvanzado.AssemblyInfoInputs.cache
+E:\Desarrollo Personal\WCF CHUBB\Bootcamp_NET_CHUBB\Dia01_CSharpAvanzado\obj\Debug\net8.0\Dia01CSharpAvanzado.AssemblyInfo.cs
+E:\Desarrollo Personal\WCF CHUBB\Bootcamp_NET_CHUBB\Dia01_CSharpAvanzado\obj\Debug\net8.0\Dia01CSharpAvanzado.csproj.CoreCompileInputs.cache
+E:\Desarrollo Personal\WCF CHUBB\Bootcamp_NET_CHUBB\Dia01_CSharpAvanzado\bin\Debug\net8.0\Dia01CSharpAvanzado.exe
+E:\Desarrollo Personal\WCF CHUBB\Bootcamp_NET_CHUBB\Dia01_CSharpAvanzado\bin\Debug\net8.0\Dia01CSharpAvanzado.deps.json
+E:\Desarrollo Personal\WCF CHUBB\Bootcamp_NET_CHUBB\Dia01_CSharpAvanzado\bin\Debug\net8.0\Dia01CSharpAvanzado.runtimeconfig.json
+E:\Desarrollo Personal\WCF CHUBB\Bootcamp_NET_CHUBB\Dia01_CSharpAvanzado\bin\Debug\net8.0\Dia01CSharpAvanzado.dll
+E:\Desarrollo Personal\WCF CHUBB\Bootcamp_NET_CHUBB\Dia01_CSharpAvanzado\bin\Debug\net8.0\Dia01CSharpAvanzado.pdb
+E:\Desarrollo Personal\WCF CHUBB\Bootcamp_NET_CHUBB\Dia01_CSharpAvanzado\obj\Debug\net8.0\Dia01CSharpAvanzado.dll
+E:\Desarrollo Personal\WCF CHUBB\Bootcamp_NET_CHUBB\Dia01_CSharpAvanzado\obj\Debug\net8.0\refint\Dia01CSharpAvanzado.dll
+E:\Desarrollo Personal\WCF CHUBB\Bootcamp_NET_CHUBB\Dia01_CSharpAvanzado\obj\Debug\net8.0\Dia01CSharpAvanzado.pdb
+E:\Desarrollo Personal\WCF CHUBB\Bootcamp_NET_CHUBB\Dia01_CSharpAvanzado\obj\Debug\net8.0\Dia01CSharpAvanzado.genruntimeconfig.cache
+E:\Desarrollo Personal\WCF CHUBB\Bootcamp_NET_CHUBB\Dia01_CSharpAvanzado\obj\Debug\net8.0\ref\Dia01CSharpAvanzado.dll

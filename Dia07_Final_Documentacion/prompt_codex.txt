@@ -1,0 +1,2 @@
+# Prompt Codex - Día 7: Documentación
+Genera un README general con arquitectura, instrucciones, endpoints, despliegue en Docker/Azure y lecciones aprendidas.

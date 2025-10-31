@@ -1,0 +1,6 @@
+# Prompt Codex - Día 2: WCF (CoreWCF en .NET 8)
+Crea una solución con tres proyectos:
+1) ServiceLibrary (CoreWCF): interfaz IHelloService y clase HelloService
+2) WcfHost (ASP.NET Core): hostea CoreWCF con endpoint basicHttpBinding en /HelloService.svc
+3) WcfClientConsole (.NET 8): cliente que consume el servicio y escribe la respuesta
+Agrega instrucciones en README para ejecutar host y luego cliente.

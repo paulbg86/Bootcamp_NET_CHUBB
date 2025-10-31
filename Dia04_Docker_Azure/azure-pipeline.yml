@@ -1,0 +1,43 @@
+trigger:
+- main
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+variables:
+  buildConfiguration: 'Release'
+  imageName: 'webapidemo'
+  dockerRegistryServiceConnection: 'YOUR-ACR-SERVICE-CONNECTION'
+  acrLoginServer: 'yourregistry.azurecr.io'
+
+steps:
+- task: DotNetCoreCLI@2
+  inputs:
+    command: 'restore'
+    projects: 'Dia03_WebApi_EFCore/WebApiDemo/WebApiDemo.csproj'
+
+- task: DotNetCoreCLI@2
+  inputs:
+    command: 'build'
+    projects: 'Dia03_WebApi_EFCore/WebApiDemo/WebApiDemo.csproj'
+    arguments: '--configuration $(buildConfiguration)'
+
+- task: DotNetCoreCLI@2
+  inputs:
+    command: 'test'
+    projects: '**/*Tests.csproj'
+    publishTestResults: true
+  continueOnError: true
+
+- task: Docker@2
+  displayName: Build and push
+  inputs:
+    command: 'buildAndPush'
+    repository: '$(imageName)'
+    dockerfile: 'Dia04_Docker_Azure/Dockerfile'
+    containerRegistry: '$(dockerRegistryServiceConnection)'
+    tags: |
+      $(Build.BuildId)
+      latest
+
+# Despliegue a Azure Web App for Containers (usa una task adicional si lo requieres)
