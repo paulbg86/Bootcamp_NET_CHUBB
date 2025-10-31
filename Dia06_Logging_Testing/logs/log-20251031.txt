@@ -1,0 +1,2 @@
+2025-10-31 15:39:11.611 -06:00 [INF] Aplicación iniciada
+2025-10-31 15:39:11.702 -06:00 [INF] Tarea completada

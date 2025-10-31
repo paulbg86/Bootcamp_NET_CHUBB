@@ -49,3 +49,4 @@ E:\Desarrollo Personal\WCF CHUBB\Bootcamp_NET_CHUBB\Dia05_Seguridad_JWT\JwtApi\o
 E:\Desarrollo Personal\WCF CHUBB\Bootcamp_NET_CHUBB\Dia05_Seguridad_JWT\JwtApi\obj\Debug\net8.0\JwtApi.pdb
 E:\Desarrollo Personal\WCF CHUBB\Bootcamp_NET_CHUBB\Dia05_Seguridad_JWT\JwtApi\obj\Debug\net8.0\JwtApi.genruntimeconfig.cache
 E:\Desarrollo Personal\WCF CHUBB\Bootcamp_NET_CHUBB\Dia05_Seguridad_JWT\JwtApi\obj\Debug\net8.0\ref\JwtApi.dll
+E:\Desarrollo Personal\WCF CHUBB\Bootcamp_NET_CHUBB\Dia05_Seguridad_JWT\JwtApi\bin\Debug\net8.0\appsettings.json
