@@ -12,3 +12,4 @@ E:\Desarrollo Personal\WCF CHUBB\Bootcamp_NET_CHUBB\Dia01_CSharpAvanzado\obj\Deb
 E:\Desarrollo Personal\WCF CHUBB\Bootcamp_NET_CHUBB\Dia01_CSharpAvanzado\obj\Debug\net8.0\Dia01CSharpAvanzado.pdb
 E:\Desarrollo Personal\WCF CHUBB\Bootcamp_NET_CHUBB\Dia01_CSharpAvanzado\obj\Debug\net8.0\Dia01CSharpAvanzado.genruntimeconfig.cache
 E:\Desarrollo Personal\WCF CHUBB\Bootcamp_NET_CHUBB\Dia01_CSharpAvanzado\obj\Debug\net8.0\ref\Dia01CSharpAvanzado.dll
+E:\Desarrollo Personal\WCF CHUBB\Bootcamp_NET_CHUBB\Dia01_CSharpAvanzado\obj\Debug\net8.0\Dia01CSharpAvanzado.sourcelink.json

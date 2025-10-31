@@ -1,0 +1,9 @@
+# Día 1 — C# Moderno
+
+Genera un programa en C# (.NET 8) que demuestre:
+- records con propiedades `init`
+- pattern matching en switch expressions
+- async/await con `HttpClient`
+- LINQ avanzado: `GroupBy`, `SelectMany`, `Aggregate`
+Incluye salidas de ejemplo impresas en consola.
+

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+4aM3Fy00Ds=",
+  "success": true,
+  "projectFilePath": "E:\\Desarrollo Personal\\WCF CHUBB\\Bootcamp_NET_CHUBB\\Dia06_Logging_Testing\\SerilogDemo\\SerilogDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Badillo\\.nuget\\packages\\serilog\\3.1.1\\serilog.3.1.1.nupkg.sha512",
+    "C:\\Users\\Badillo\\.nuget\\packages\\serilog.sinks.console\\5.0.1\\serilog.sinks.console.5.0.1.nupkg.sha512",
+    "C:\\Users\\Badillo\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
